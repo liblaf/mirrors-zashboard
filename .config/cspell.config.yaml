@@ -14,9 +14,6 @@ maxFileSize: 32KB
 useGitignore: true
 words:
   - liblaf
-  - mkdocs
-  - oxfmt
-  - oxlint
   - pipx
   - rumdl
   - zashboard
