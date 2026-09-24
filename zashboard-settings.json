@@ -1,0 +1,20 @@
+{
+  "config/auto-import-settings": "true",
+  "config/auto-sync-settings": "true",
+  "config/auto-upgrade": "true",
+  "config/earth-visual-mode": "space",
+  "config/emoji": "twemoji",
+  "config/font": "SystemUI",
+  "config/independent-latency-test": "true",
+  "config/ipv6-test": "true",
+  "config/is-sidebar-collapsed": "false",
+  "config/log-level": "warning",
+  "config/min-proxy-card-width": "272",
+  "config/number-of-charts-in-sidebar": "3",
+  "config/show-selected-for-now-node": "true",
+  "config/speedtest-mode": "core",
+  "config/speedtest-timeout": "1200",
+  "config/speedtest-url": "https://cp.cloudflare.com",
+  "config/split-overview-page": "true",
+  "config/truncate-proxy-name": "false"
+}
